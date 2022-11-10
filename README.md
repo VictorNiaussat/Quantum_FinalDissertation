@@ -1,5 +1,5 @@
 
-# Quantum_FinalDissertation
+# Quantum Final Dissertation
 Quantum final dissertation : work on computational advantage of quantum random sampling
 
 ### References 
