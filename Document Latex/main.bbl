@@ -1,0 +1,212 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{hangleiter_computational_2022}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=ef4bc0c6c97353b8ff0534c917bdfbbb}{%
+           family={Hangleiter},
+           familyi={H\bibinitperiod},
+           given={Dominik},
+           giveni={D\bibinitperiod}}}%
+        {{hash=878172bfd75f93a96d3646d7b66c3e48}{%
+           family={Eisert},
+           familyi={E\bibinitperiod},
+           given={Jens},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{1ab1d1fc5114163704bc8cccef24c800}
+      \strng{fullhash}{1ab1d1fc5114163704bc8cccef24c800}
+      \strng{bibnamehash}{1ab1d1fc5114163704bc8cccef24c800}
+      \strng{authorbibnamehash}{1ab1d1fc5114163704bc8cccef24c800}
+      \strng{authornamehash}{1ab1d1fc5114163704bc8cccef24c800}
+      \strng{authorfullhash}{1ab1d1fc5114163704bc8cccef24c800}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Quantum random sampling is the leading proposal for demonstrating a computational advantage of quantum computers over classical computers. Recently, first large-scale implementations of quantum random sampling have arguably surpassed the boundary of what can be simulated on existing classical hardware. In this article, we comprehensively review the theoretical underpinning of quantum random sampling in terms of computational complexity and verifiability, as well as the practical aspects of its experimental implementation using superconducting and photonic devices and its classical simulation. We discuss in detail open questions in the field and provide perspectives for the road ahead, including potential applications of quantum random sampling.}
+      \field{annotation}{Comment: 82 pages, 13 figures, 2 tables. Sections II-V build on previously unpublished chapters of arXiv:2012.07905. v2: added some references. v3: small corrections}
+      \field{month}{11}
+      \field{note}{arXiv:2206.04079 [cond-mat, physics:quant-ph]}
+      \field{title}{Computational advantage of quantum random sampling}
+      \field{urlday}{10}
+      \field{urlmonth}{11}
+      \field{urlyear}{2022}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.48550/arXiv.2206.04079
+      \endverb
+      \verb{file}
+      \verb arXiv Fulltext PDF:C\:\\Users\\victo\\Zotero\\storage\\YURS7E4K\\Hangleiter et Eisert - 2022 - Computational advantage of quantum random sampling.pdf:application/pdf;arXiv.org Snapshot:C\:\\Users\\victo\\Zotero\\storage\\2BWAZD9X\\2206.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/2206.04079
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/2206.04079
+      \endverb
+      \keyw{Computer Science - Computational Complexity,Condensed Matter - Quantum Gases,Quantum Physics}
+    \endentry
+    \entry{hinsche_single_2022}{misc}{}
+      \name{author}{9}{}{%
+        {{hash=ebd378ff4c74b2a9172f331b43cc651e}{%
+           family={Hinsche},
+           familyi={H\bibinitperiod},
+           given={Marcel},
+           giveni={M\bibinitperiod}}}%
+        {{hash=01bbce5fbf46cecc655f988a89da9e5d}{%
+           family={Ioannou},
+           familyi={I\bibinitperiod},
+           given={Marios},
+           giveni={M\bibinitperiod}}}%
+        {{hash=021ddf34f04245bb49f8e14d91ec0f32}{%
+           family={Nietner},
+           familyi={N\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+        {{hash=e1647153127a244f6e8baba449f8b089}{%
+           family={Haferkamp},
+           familyi={H\bibinitperiod},
+           given={Jonas},
+           giveni={J\bibinitperiod}}}%
+        {{hash=7b75a99b149ca84d8eb6b56b5fab67df}{%
+           family={Quek},
+           familyi={Q\bibinitperiod},
+           given={Yihui},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=ef4bc0c6c97353b8ff0534c917bdfbbb}{%
+           family={Hangleiter},
+           familyi={H\bibinitperiod},
+           given={Dominik},
+           giveni={D\bibinitperiod}}}%
+        {{hash=ed83c5ceed1edd0dbc3cc610adf79477}{%
+           family={Seifert},
+           familyi={S\bibinitperiod},
+           given={Jean-Pierre},
+           giveni={J\bibinithyphendelim P\bibinitperiod}}}%
+        {{hash=878172bfd75f93a96d3646d7b66c3e48}{%
+           family={Eisert},
+           familyi={E\bibinitperiod},
+           given={Jens},
+           giveni={J\bibinitperiod}}}%
+        {{hash=5ad899c94bf216d9a3334f13a79e79b0}{%
+           family={Sweke},
+           familyi={S\bibinitperiod},
+           given={Ryan},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{b03acc1fe16c68aa0101d0a1abb02314}
+      \strng{fullhash}{6281b5685e12d90c02fe646a919c3ce1}
+      \strng{bibnamehash}{b03acc1fe16c68aa0101d0a1abb02314}
+      \strng{authorbibnamehash}{b03acc1fe16c68aa0101d0a1abb02314}
+      \strng{authornamehash}{b03acc1fe16c68aa0101d0a1abb02314}
+      \strng{authorfullhash}{6281b5685e12d90c02fe646a919c3ce1}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The task of learning a probability distribution from samples is ubiquitous across the natural sciences. The output distributions of local quantum circuits form a particularly interesting class of distributions, of key importance both to quantum advantage proposals and a variety of quantum machine learning algorithms. In this work, we provide an extensive characterization of the learnability of the output distributions of local quantum circuits. Our first result yields insight into the relationship between the efficient learnability and the efficient simulatability of these distributions. Specifically, we prove that the density modelling problem associated with Clifford circuits can be efficiently solved, while for depth \$d=n{\textasciicircum}\{{\textbackslash}Omega(1)\}\$ circuits the injection of a single \$T\$-gate into the circuit renders this problem hard. This result shows that efficient simulatability does not imply efficient learnability. Our second set of results provides insight into the potential and limitations of quantum generative modelling algorithms. We first show that the generative modelling problem associated with depth \$d=n{\textasciicircum}\{{\textbackslash}Omega(1)\}\$ local quantum circuits is hard for any learning algorithm, classical or quantum. As a consequence, one cannot use a quantum algorithm to gain a practical advantage for this task. We then show that, for a wide variety of the most practically relevant learning algorithms -- including hybrid-quantum classical algorithms -- even the generative modelling problem associated with depth \$d={\textbackslash}omega({\textbackslash}log(n))\$ Clifford circuits is hard. This result places limitations on the applicability of near-term hybrid quantum-classical generative modelling algorithms.}
+      \field{annotation}{Comment: 5+12 pages, 3 figures}
+      \field{month}{7}
+      \field{note}{arXiv:2207.03140 [quant-ph, stat]}
+      \field{title}{A single $T$-gate makes distribution learning hard}
+      \field{urlday}{10}
+      \field{urlmonth}{11}
+      \field{urlyear}{2022}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb arXiv Fulltext PDF:C\:\\Users\\victo\\Zotero\\storage\\HIPH6UUR\\Hinsche et al. - 2022 - A single \$T\$-gate makes distribution learning hard.pdf:application/pdf;arXiv.org Snapshot:C\:\\Users\\victo\\Zotero\\storage\\M2GD65LV\\2207.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/2207.03140
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/2207.03140
+      \endverb
+      \keyw{Computer Science - Computational Complexity,Quantum Physics,Statistics - Machine Learning}
+    \endentry
+    \entry{frauchiger_true_2013}{misc}{}
+      \name{author}{3}{}{%
+        {{hash=ae675713c61c25773c87d81c114ea9e9}{%
+           family={Frauchiger},
+           familyi={F\bibinitperiod},
+           given={Daniela},
+           giveni={D\bibinitperiod}}}%
+        {{hash=31ab9a997aaced32f65c72d1be34ac55}{%
+           family={Renner},
+           familyi={R\bibinitperiod},
+           given={Renato},
+           giveni={R\bibinitperiod}}}%
+        {{hash=8c95c0b716ad4a10a2ab4370aca0d0ca}{%
+           family={Troyer},
+           familyi={T\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{484ff5cbd589298b578b96766cddd026}
+      \strng{fullhash}{484ff5cbd589298b578b96766cddd026}
+      \strng{bibnamehash}{484ff5cbd589298b578b96766cddd026}
+      \strng{authorbibnamehash}{484ff5cbd589298b578b96766cddd026}
+      \strng{authornamehash}{484ff5cbd589298b578b96766cddd026}
+      \strng{authorfullhash}{484ff5cbd589298b578b96766cddd026}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Even if the output of a Random Number Generator (RNG) is perfectly uniformly distributed, it may be correlated to pre-existing information and therefore be predictable. Statistical tests are thus not sufficient to guarantee that an RNG is usable for applications, e.g., in cryptography or gambling, where unpredictability is important. To enable such applications a stronger notion of randomness, termed "true randomness", is required, which includes independence from prior information. Quantum systems are particularly suitable for true randomness generation, as their unpredictability can be proved based on physical principles. Practical implementations of Quantum RNGs (QRNGs) are however always subject to noise, i.e., influences which are not fully controlled. This reduces the quality of the raw randomness generated by the device, making it necessary to post-process it. Here we provide a framework to analyse realistic QRNGs and to determine the post-processing that is necessary to turn their raw output into true randomness.}
+      \field{annotation}{Comment: 12 pages + appendix; see ancillary files for extractor software}
+      \field{month}{11}
+      \field{note}{arXiv:1311.4547 [quant-ph]}
+      \field{title}{True randomness from realistic quantum devices}
+      \field{urlday}{10}
+      \field{urlmonth}{11}
+      \field{urlyear}{2022}
+      \field{year}{2013}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb arXiv Fulltext PDF:C\:\\Users\\victo\\Zotero\\storage\\DGPCDHG7\\Frauchiger et al. - 2013 - True randomness from realistic quantum devices.pdf:application/pdf;arXiv.org Snapshot:C\:\\Users\\victo\\Zotero\\storage\\Z2GA5FR5\\1311.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/1311.4547
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/1311.4547
+      \endverb
+      \keyw{Quantum Physics,Computer Science - Cryptography and Security}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
