@@ -12,8 +12,8 @@
 
 \pagestyle{fancy}
 \fancyhf{}
-\rhead{11-09-2022}
-\chead{Mathématique de l'Informatique Quantique}
+\rhead{\date}
+\chead{Vers l'avantage quantique ?}
 \lhead{Victor Niaussat}
 \lfoot{}
 \rfoot{\thepage}
@@ -36,14 +36,14 @@
 \includegraphics[scale=0.1]{Images/Logotype_Université_de_Lille_2022.svg.png}\\[2cm]
 
 
-\textsc{\Large Laboratoire Painlevé }\\[0.5cm] 
+\textsc{\Large Equipe Projet INRIA PARADYSE Lille - Lab. P.Painleve CNRS }\\[0.5cm] 
 
 %----------------------------------------------------------------------------------------
 %	TITLE SECTION
 %----------------------------------------------------------------------------------------
 
 \HRule \\[0.4cm]
-{ \huge \bfseries Mathématiques de l'Informatique Quantique}\\[0.4cm] 
+{ \huge \bfseries Vers l'avantage quantique ?}\\[0.4cm] 
 \large 
 \HRule \\[1.5cm]
  
@@ -56,6 +56,9 @@
 \emph{Auteur:}\\
 Victor Niaussat \\ 
 
+\emph{Encadrant:}\\
+Stephan De Bièvre \\ 
+
 
 
 \end{flushleft}
@@ -66,7 +69,7 @@ Victor Niaussat \\
 %	DATE SECTION
 %----------------------------------------------------------------------------------------
 
-{\large 11 Septembre 2022}\\[2cm] % Date, change the \today to a set date if you want to be precise
+{\large \d{}}\\[2cm] % Date, change the \today to a set date if you want to be precise
 
 \vfill % Fill the rest of the page with whitespace
 
@@ -80,10 +83,10 @@ Victor Niaussat \\
 \newpage
 \pagenumbering{arabic}
 
-\section{Notesssss}
+\section{Introduction}
 \input{Parts/Notes}
 
-\section{Introduction}
+\section{Première Partie}
 \input{Parts/FirstPart}
 
 \newpage
